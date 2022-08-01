@@ -1,0 +1,8 @@
+{
+  "name": "monorepo-react-nest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/minsu-zip/monorepo-react-nest.git",
+  "author": "minsu-zip <alstn4814@gmail.com>",
+  "license": "MIT"
+}
