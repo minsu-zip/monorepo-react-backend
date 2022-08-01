@@ -13,5 +13,12 @@
   },
   "scripts": {
     "client:start": "yarn workspace client run start"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.31.0",
+    "@typescript-eslint/parser": "^5.31.0",
+    "eslint": "^8.21.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.7.1"
   }
 }
